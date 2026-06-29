@@ -43,7 +43,13 @@ A programação contempla masterclasses de canto barroco e de instrumentos de é
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CLUBE DOS CAMINHÕES ARQUEADOS DO BRASIL</title>
+  <title>CLUBE DAS MUSICAS ANTIGAS</title>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CLUBE DAS MUSICAS ANTIGAS DO ERICKZIN</title>
 
   <style>
     * {
@@ -59,7 +65,7 @@ A programação contempla masterclasses de canto barroco e de instrumentos de é
     }
 
     header {
-      background: linear-gradient(90deg, #ff0000, #ff7300);
+      background: linear-gradient(90deg, #b92f2f, #ff7300);
       padding: 20px;
       text-align: center;
     }
@@ -168,7 +174,7 @@ A programação contempla masterclasses de canto barroco e de instrumentos de é
 <body>
 
   <header>
-    <h1>CLUBE DOS BRUTOS ARQUEADOS DO BRASIL</h1>
+    <h1>CLUBE DAS MELHORES MUSICAS ANTIGAS</h1>
   </header>
 
   <nav>
@@ -179,36 +185,36 @@ A programação contempla masterclasses de canto barroco e de instrumentos de é
   </nav>
 
   <main>
-    <h2>Bem-vindo ao mundo dos BRUTOS</h2>
-    <p>Aqui você encontra as melhores fotos e vídeos de caminhões arqueados do Brasil, com o engenheiro Paes.</p>
+    <h2>Bem-vindo ao mundo das Musicas Antigas</h2>
+    <p>Aqui você encontra as melhores musicas antigas de varios Brasileiro.</p>
    
     <div class="galeria">
       <div class="card">
         <img src="https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=600&auto=format&fit=crop&quot; alt="Scania V8 arqueada na cor vermelha">
         <div class="card-content">
           <h3>Scania Arqueada</h3>
-          <p>Os brutos mais insanos da estrada</p>
+          <p>As musicas mais tocadas</p>
         </div>
       </div>
       <div class="card">
         <img src="https://images.unsplash.com/photo-1591768793355-74d04bb6608f?w=600&auto=format&fit=crop&quot; alt="Volvo FH branco arqueado">
         <div class="card-content">
           <h3>Volvo FH Arqueado</h3>
-          <p>Potência e estilo no grau</p>
+          <p>Potência e estilo de musicas</p>
         </div>
       </div>
       <div class="card">
         <img src="https://images.unsplash.com/photo-1557223562-6c77ef16210f?w=600&auto=format&fit=crop&quot; alt="Encontro de caminhões arqueados">
         <div class="card-content">
           <h3>Eventos</h3>
-          <p>Cobertura dos maiores encontros</p>
+          <p>Aberturas dos maiores show</p>
         </div>
       </div>
     </div>
   </main>
 
   <footer>
-    <p>&copy; PATROCÍNIO MOLAS E SUSPENSÃO DUDU</p>
+    <p>&copy; MUSICAS ANTIGAS DO ERICK</p>
   </footer>
 
 </body>
